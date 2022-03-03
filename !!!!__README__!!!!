@@ -1,0 +1,16 @@
+Follow the commands and then run the .py file.
+
+1) pip list > piplist.txt
+2) open piplist.txt and delete the following lines: 
+
+{
+Package                     Version
+--------------------------- --------------------
+}
+
+
+( you only want the:  "(installation) == (version)" inside the piplist.txt file)
+
+3) run the .py file. This will create the piplist_new.txt.
+4) copy the content of the piplist_new.txt. and paste it inside the terminal or the virtual environment.
+5) Wait for the installation.
